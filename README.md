@@ -13,7 +13,7 @@ Item: "A single rule"
 "Copy" creates "Item Name: Name of Radio Button Selected" for each item and puts it in your clipboard.  
 "Reset" sets all item radio button to "None".  
 
-## Adding/Modifying Items
+### Adding/Modifying Items
 Have 1 rule per line.  
 "Apply" adds the rules in the textbox.  
 "Clear" removes the textbox content.  
